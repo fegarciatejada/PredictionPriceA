@@ -19,8 +19,6 @@ Key columns in the dataset include:
 - **Total Volume**: Total avocados sold.
 - **4046, 4225, 4770**: Sales volume for avocados with specific PLU codes.
 
-Data Source: [To be provided by the user]
-
 ## Technologies Used
 
 - Python 3.x
