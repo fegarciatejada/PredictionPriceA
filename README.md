@@ -1,8 +1,8 @@
-# Predicting Avocado Prices Using Facebook Prophet
+# Predicting Avocado Prices Using Prophet
 
 ## Project Overview
 
-This project aims to forecast weekly avocado prices using historical retail scan data. By leveraging Facebook's Prophet forecasting tool, we aim to model the price trends of Hass avocados in various regions, considering factors like sales volume and type (conventional or organic).
+This project aims to forecast weekly avocado prices using historical retail scan data. By leveraging Prophet forecasting tool, we aim to model the price trends of Hass avocados in various regions, considering factors like sales volume and type (conventional or organic).
 
 ### Problem Statement
 
